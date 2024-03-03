@@ -114,7 +114,7 @@
 
 ### 시연 영상
 
-[![곳간 구현기능](http://img.youtube.com/vi/9O4lv17Ql7E/0.jpg)](https://youtube.com/watch?v=9O4lv17Ql7E&si=EnSIkaIECMiOmarE)
+[![곳간 구현기능](https://github.com/lianKim/gokkan/assets/97217822/2330069c-2b77-41a5-91c7-5e3b8961c3cb)
 
 설명란의 타임라인을 참조해주세요.
 
