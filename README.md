@@ -1,7 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/78466780/213652916-5df85e69-d76a-459b-9452-7d0584e7e55b.png" alt="Gokkan" width="160px">
 
-빈티지 가구와 소품을 구매하고 판매하기 위한 경매 서비스입니다. 
-
+#### 빈티지 가구와 소품을 구매하고 판매하기 위한 경매 서비스입니다. 
 전문가 감정 기능이 있어 제품 검수는 물론이고, 예상 낙찰가와 한줄평도 확인할 수 있습니다.
 
 </br>
@@ -20,7 +19,7 @@
 
 ## 프로젝트 기간
 
-2022.12.05 ~ 2023.01.22
+2022.12.05 - 2023.01.22
 
 </br>
 
@@ -110,21 +109,13 @@
 
 ▪️ **소셜 로그인** - 카카오톡을 이용하여 회원가입과 로그인을 할 수 있습니다.
 
-</br>
-
-### 시연 영상
-
-[![youtube preview](https://github.com/lianKim/gokkan/assets/97217822/2330069c-2b77-41a5-91c7-5e3b8961c3cb)](https://youtu.be/9O4lv17Ql7E?si=qLkUKvKTgpb11k2K)
-
-[youtube](https://youtu.be/9O4lv17Ql7E?si=qLkUKvKTgpb11k2K)
-
-설명란의 타임라인을 참조해주세요.
 
 </br>
 
 </br>
 
 </br>
+
 
 ## 구성도
 
